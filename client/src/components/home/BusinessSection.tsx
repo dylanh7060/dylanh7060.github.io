@@ -118,11 +118,11 @@ const BusinessSection = () => {
       description: "Case competitions have been instrumental in honing my analytical thinking and presentation skills against top competitors.",
       image: "https://images.unsplash.com/photo-1573164574026-dd69c9fe4e63?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80",
       points: [
-        { icon: <Award className="h-5 w-5 text-accent" />, text: "Rotman Boardroom Competition (Top 12 finish)" },
-        { icon: <Briefcase className="h-5 w-5 text-accent" />, text: "Appleby Case Competition participant" },
-        { icon: <Lightbulb className="h-5 w-5 text-accent" />, text: "Developed LISA, an innovative legal AI concept" },
+        { icon: <Award className="h-5 w-5 text-accent" />, text: "DECA Provincials 2024 (Top 20 Oral 1,2, overall) Regionals 2024 Top 10 Overall, Provincials 2025 Top 20 Roleplay " } 
+        { icon: <Briefcase className="h-5 w-5 text-accent" />, text: "Rotman Boardroom Competition 2024 (Top 12 finish)" },
+        { icon: <Lightbulb className="h-5 w-5 text-accent" />, text: "Appleby Case Competition 2025 (Top 5 Teams)" },
       ],
-      year: "2021-2022",
+      year: "Since 2023",
       color: "bg-blue-50",
       badge: "Innovation"
     },

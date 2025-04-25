@@ -50,7 +50,7 @@ const BeyondSection = () => {
       color: "from-blue-50 to-green-50",
       facts: [
         "Cycled over 1,500km in 2022",
-        "Favorite route: Lakeside Trail",
+        "Favorite route: To School",
         "Weekend ritual: Dawn rides"
       ]
     },
@@ -88,8 +88,8 @@ const BeyondSection = () => {
       image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
       color: "from-green-50 to-yellow-50",
       facts: [
-        "Reading goal: 24 books/year",
-        "Favorite author: Malcolm Gladwell",
+        "Reading goal: 15 books/year",
+        "Favorite book: The Kite Runner",
         "Current read: Business innovation"
       ]
     }

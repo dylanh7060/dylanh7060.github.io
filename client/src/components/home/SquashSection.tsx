@@ -69,26 +69,26 @@ const SquashSection = () => {
 
   const tournaments = [
     {
-      type: "Regional",
-      title: "City Championships",
-      description: "Semifinalist in highly competitive bracket, notable for strategic play against higher-ranked opponents.",
-      date: "April 2023",
-      placement: "Top 4",
+      type: "Ontario",
+      title: "Junior Silver #6 2025",
+      description: "Ontario junior silver tournament, played against higher-ranked opponents.",
+      date: "March 2025",
+      placement: "Winner",
       color: "bg-blue-50",
       icon: <Trophy className="h-5 w-5 text-blue-500" />,
       image: "https://images.unsplash.com/photo-1566577134664-17a565982f26?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
       stats: [
-        { label: "Matches", value: 5 },
-        { label: "Win Rate", value: "80%" },
-        { label: "Points Scored", value: 165 }
+        { label: "Matches", value: 4 },
+        { label: "Win Rate", value: "75%" },
+        { label: "Points Scored", value: +0.2 Club Locker Rating </Rating> }
       ]
     },
     {
-      type: "Provincial",
-      title: "Ontario Junior Open",
-      description: "Quarterfinal finish with notable victory against provincial seed. Demonstrated effective adaptation to challenging court conditions.",
+      type: "Ontario",
+      title: "Grand Prix #7",
+      description: "First tournament win - made me believe hard work does pay off.",
       date: "November 2022",
-      placement: "Top 8",
+      placement: "Winner",
       color: "bg-green-50",
       icon: <Star className="h-5 w-5 text-green-500" />,
       image: "https://images.unsplash.com/photo-1554290813-ec6a2a72e5c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80",
@@ -100,9 +100,9 @@ const SquashSection = () => {
     },
     {
       type: "School",
-      title: "Interscholastic Finals",
-      description: "Team captain leading to championship match. Personal record of 7-1 throughout the tournament series.",
-      date: "February 2023",
+      title: "CISAA Finals",
+      description: "Team school win during 2023-2024 Junior Team, 3rd place for 2024-25 Varsity.",
+      date: "2023-2025",
       placement: "Finalist",
       color: "bg-amber-50",
       icon: <Target className="h-5 w-5 text-amber-500" />,
@@ -232,7 +232,9 @@ const SquashSection = () => {
     },
     {
       label: "Lessons Learned",
-      content: (
+      Hard Work beats Talent. 
+
+      content: ( . 
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <motion.div variants={itemVariants} className="order-2 md:order-1">
             <h3 className="heading-md mb-6 text-primary">Junior vs. Senior: The Dilemma</h3>
